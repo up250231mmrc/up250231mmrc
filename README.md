@@ -3,7 +3,8 @@
 *************************
 
 ###   👾  Acerca de mi   👾:
-
+Estudiante de la upa en la carrera de TIID
+Estoy aprendiendo japones 🇯🇵
 Estoy aprendiendo a usar github 
 
 
