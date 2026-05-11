@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi i am student of the Upa
+***********
 <!--
 **up250231mmrc/up250231mmrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
