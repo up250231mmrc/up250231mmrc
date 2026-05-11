@@ -5,12 +5,16 @@
 ###   👾  Acerca de mi   👾:
 Estudiante de la upa en la carrera de TIID
 
-Estoy aprendiendo japones  🇯🇵
+Estoy aprendiendo japones 
 
 ![Texto alternativo](![Texto alternativo](https://www.ourtriparoundtheworld.com/wp-content/uploads/Flag-of-Japan.png)
 
 
 Estoy aprendiendo a usar github 
+
+- [x] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
 
 
 
