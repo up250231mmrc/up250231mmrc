@@ -5,7 +5,7 @@
 ###   👾  Acerca de mi   👾:
 Estudiante de la upa en la carrera de TIID
 
-Estoy aprendiendo japones
+Estoy aprendiendo japones  🇯🇵
 
 ![Texto alternativo](![Texto alternativo](https://www.kindpng.com/picc/m/234-2343906_crossed-flags-japan-emoji-hd-png-download.png)
 
@@ -22,7 +22,7 @@ Estoy aprendiendo a usar github
 > Investigar como se usa esto
 **************
 
-###  📫 (https://www.google.com/support/accounts/bin/answer.py?answer=181692)
+###  conntacto 📫 (https://www.google.com/support/accounts/bin/answer.py?answer=181692)
 
 
 
