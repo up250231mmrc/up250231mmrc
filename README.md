@@ -7,7 +7,7 @@ Estudiante de la upa en la carrera de TIID
 
 Estoy aprendiendo japones  🇯🇵
 
-![Texto alternativo](![Texto alternativo](https://www.kindpng.com/picc/m/234-2343906_crossed-flags-japan-emoji-hd-png-download.png)
+![Texto alternativo](![Texto alternativo](https://www.ourtriparoundtheworld.com/wp-content/uploads/Flag-of-Japan.png)
 
 
 Estoy aprendiendo a usar github 
