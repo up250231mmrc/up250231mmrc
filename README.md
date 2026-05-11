@@ -7,14 +7,24 @@ Estudiante de la upa en la carrera de TIID
 
 Estoy aprendiendo japones 
 
-![Texto alternativo](![Texto alternativo](https://www.ourtriparoundtheworld.com/wp-content/uploads/Flag-of-Japan.png)
+(![Texto alternativo](https://www.ourtriparoundtheworld.com/wp-content/uploads/Flag-of-Japan.png)
 
 
 Estoy aprendiendo a usar github 
 
-- [x] Tarea 1
-- [ ] Tarea 2
+- [x] imagen 
+- [x] enlace 
 - [ ] Tarea 3
+
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| ------------ | ------------ | ------------ |
+| Dato A1 | Dato A2 | Dato A3 |
+| Dato B1 | Dato B2 | Dato B3 |
+| Izquierda | Centrado | Derecha |
+| :--- | :---: | ---: |
+| Dato 1 | Dato 2 | Dato 3 |
+| Texto | Más texto | Final |
 
 
 
