@@ -1,7 +1,6 @@
 ## Hi i am student of the Upa
 ***********
-<!--<img width="174" height="148" alt="image" src="https://github.com/user-attachments/assets/9fd55fd6-4352-46be-9364-9291fe8bab13" />
-
+![Texto alternativo](https://moure.dev/logo.svg "Título opcional")
 **up250231mmrc/up250231mmrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
